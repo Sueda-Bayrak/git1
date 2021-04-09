@@ -1,0 +1,15 @@
+##3.Git temel komutları nelerdir? (Kısa açıklamaları ile)
+
+**git config: kullanıcı adı ve mailin belirlendiği komut.**
+
+**git init:repository oluşturmanın ilk adımıdır.Gizli bir git dosyası oluşur proje hakkındaki bilgillerin depolandığı dosyadır.**
+
+**git status:locale repository taşıdığımız dosyalarla  çalışma alanımız arasındaki farklılıkları gösterir.**
+
+**git add: stage area belirtilen dosyaları taşır.**
+
+**git rm: stage area 'ya  yanlışlıkla eklediğimiz  ya da artık bulunmasını istemediğimiz dosyaları siler.**
+
+**git commit :stage area’dan aldığımız değişiklikleri local repository’ye kayıt eder.**
+
+**git log:projede yapılan commit işlemlerini gösterir.**
