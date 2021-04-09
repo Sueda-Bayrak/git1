@@ -1,0 +1,8 @@
+##4.Niçin sürüm kontrol sistemi kullanmalıyız? (Kısa kendi fikirlerinizi paylaştığınız bir yazı, maksimum 2 sayfa)
+
+
+**Aynı projede çalışan birden fazla yazılımcının değişiklik yapmasını sağlar.yani bir yazılımcının projede yaptığı değişiklikler diğer yazılımcının yaptıklarını etkilemez.böylece birden fazla yazılımcı aynı proje üstünde çalışabilir ve değişiklikler yapabilir.**
+
+**Proje geliştirme aşamasında eski ve yeni kodları karşılaştırarak  gelişmelerimizi ve hataların hangi dosyalarda olduğunu ve nasıl yapıldığını görmemizi sağlar.**
+ 
+**Gerektiğinde ulaşmak istediğimiz eski kodların kayıtlarını kolayca bulmamızı sağlar.Böylece daha önce yapılan değişikliklerin neler olduğuna göz atmamızı sağlar.**
