@@ -1,0 +1,9 @@
+##1.	Sürüm kontrol sistemi nedir? Ne işe yarar? Bazı sürüm kontrol sistemleri isimleri nelerdir?
+**Sürüm kontrol sistemleri  bir yada daha fazla dosya üzerinde yapılan değişiklikleri adım adım kayıt edip tarihçesini tutan ve bu sayede gerektiğinde geri dönüş ve geçiş  yapabilmemizi sağlayan sistemlerdir.**
+
+**Sürüm kontrol sistemleri
+Bir dosyanın ya da projenin geçmişteki sürümlerine ulaşabilmenizi  bu sayede
+Bir projenin eski ve yeni kodu arasındaki gelişmelerinizi görmenizi ve kodları karşılaştırmanızı 
+Projenizde bir hata oluştuğunda bu hatanın ne zaman ve kim tarafından kaynaklandığını görmenizi
+Bir yanlışlık durumunda dosyanın kaybında dosyayı geri getirmenizi ya da dosyada kod da  yapılan bir değişikliği önceki durumuna geri getirmek gibi bir çok olayın gerçekleşmesini sağlar.
+Sürüm kontrol sistemlerinin isimleri: Git.SVN,BitKeeper,Mercurial .**
